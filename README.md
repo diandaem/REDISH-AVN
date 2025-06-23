@@ -18,7 +18,7 @@ Develop and validate a deep learning model capable of removing smoke from laparo
 Our database was validated by 38 surgians, If you want to view the questionnaire, you can access it by scanning the QR code below.
 
 <div align="center">
-  <img src="comparaciones/sample_edsedi_pair.png" width="500">
+  <img src="comparaciones/sample_edsedi_pair.png" width="700">
 </div>
 
 a) Are real laparoscopic images
