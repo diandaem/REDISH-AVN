@@ -67,9 +67,18 @@ Desarrollar y evaluar modelos de aprendizaje profundo capaces de eliminar humo d
 
 ---
 
-### 🧪 Modelo 4 – Desmoke-Lap
+<h3 align="center">🧪 Modelo 3 – Desmoke-Lap</h3>
 
+<div align="center">
+  <img src="comparaciones/comparacion_desmoke-LAP_192.gif" width="768">
+</div>
 
+<table align="center" width="768">
+  <tr>
+    <td align="center" width="384"><sub><strong>Entrada</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Salida</strong></sub></td>
+  </tr>
+</table>
 
 ---
 
