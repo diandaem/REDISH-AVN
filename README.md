@@ -4,7 +4,7 @@ Optimization of Laparoscopic Images Using Artificial Intelligence Models
 
 # DESOKE-RGAN (A)
 
-# 🩺 Avances de Tesis – Eliminación de Humo en Imágenes Laparoscópicas
+# 🩺 Eliminación de Humo en Imágenes Laparoscópicas
 
 Este repositorio presenta una recopilación ilustrativa de los avances obtenidos durante el desarrollo de mi tesis de maestría. Se comparan visualmente distintos modelos de inteligencia artificial aplicados a la restauración de imágenes laparoscópicas afectadas por humo.
 
