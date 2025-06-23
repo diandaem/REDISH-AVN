@@ -67,7 +67,7 @@ Desarrollar y evaluar modelos de aprendizaje profundo capaces de eliminar humo d
 
 ---
 
-<h3 align="center">🧪 Modelo 3 – Desmoke-Lap</h3>
+<h3 align="center">🧪 Modelo 4 – Desmoke-Lap</h3>
 
 <div align="center">
   <img src="comparaciones/comparacion_desmoke-LAP_192.gif" width="768">
@@ -81,12 +81,33 @@ Desarrollar y evaluar modelos de aprendizaje profundo capaces de eliminar humo d
 </table>
 
 ---
+<h3 align="center">🧪 Modelo 5 – Desmoke-RGAN(a)</h3>
 
-### 🧪 Modelo 5 – Desmoke-RGAN(a)
+<div align="center">
+  <img src="comparaciones/comparacion_desmoke_RGAN_a_192.gif" width="768">
+</div>
 
+<table align="center" width="768">
+  <tr>
+    <td align="center" width="384"><sub><strong>Entrada</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Salida</strong></sub></td>
+  </tr>
+</table>
 
+----
+<h3 align="center">🧪 Modelo 6 – Desmoke-RGAN(b)</h3>
 
-### 🧪 Modelo 5 – Desmoke-RGAN(b)
+<div align="center">
+  <img src="comparaciones/comparacion_desmoke_RGAN_b_192.gif" width="768">
+</div>
+
+<table align="center" width="768">
+  <tr>
+    <td align="center" width="384"><sub><strong>Entrada</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Salida</strong></sub></td>
+  </tr>
+</table>
+
 
 
 
