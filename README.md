@@ -1,6 +1,6 @@
 # Optimization of Laparoscopic Images Using Artificial Intelligence Models
 
-⚠️ SEGUIMOS EN CONSTRUCCIÓN, AGRADECEMOS SU PACIENCIA
+⚠️ WE ARE STILL UNDER CONSTRUCTION, WE APPRECIATE YOUR PATIENCE
 ---
 
 # 🩺 Abstract
