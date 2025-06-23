@@ -26,13 +26,26 @@ Develop and validate a deep learning model capable of removing smoke from laparo
 (c) Are real smoke laparoscopic images
 </div>
 
+<br>
 Our sythetic database was validated by 38 surgeons, If you want to view the questionnaire, you can access here: https://docs.google.com/forms/d/e/1FAIpQLSePzA2Y4RCd-25frgxneRq8XsyyNm43KJMPWswdY2zGdqaQRQ/viewform?usp=header
 
 The results of surgeons evaluation were analyzed statistically.
 
+<h3 align="center">📊 Statistical Analysis</h3>
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="comparaciones/global_response_distribution.png" width="300" style="padding: 0 5px;"></td>
+    <td align="center"><img src="comparaciones/histogram_total_scores.png" width="300" style="padding: 0 5px;"></td>
+    <td align="center"><img src="comparaciones/density_total_scores.png" width="300" style="padding: 0 5px;"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><strong>Global Response Distribution</strong></sub></td>
+    <td align="center"><sub><strong>Histogram Total Scores</strong></sub></td>
+    <td align="center"><sub><strong>Density Total Scores</strong></sub></td>
+  </tr>
+</table>
 
----
 
 ## 📊 Qualitative results
 
