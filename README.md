@@ -1,24 +1,20 @@
-# REDISH-AVN
-Optimization of Laparoscopic Images Using Artificial Intelligence Models
+# Optimization of Laparoscopic Images Using Artificial Intelligence Models
 
 
-# DESOKE-RGAN (A)
 
-# 🩺 Eliminación de Humo en Imágenes Laparoscópicas
+# 🩺 Abstract
 
-Este repositorio presenta una recopilación ilustrativa de los avances obtenidos durante el desarrollo de mi tesis de maestría. Se comparan visualmente distintos modelos de inteligencia artificial aplicados a la restauración de imágenes laparoscópicas afectadas por humo.
-
-Actualmente, el repositorio no contiene código y se centra únicamente en resultados visuales para análisis y seguimiento del proyecto.
+In this proyect we introduce Desmoke-RGAN a conditional GAN that incorporates a red-excess channel to remove smoke from laparoscopic images. By training on a four-channel input map, the network reconstructs smoke-free scenes. In evaluations with both synthetic and real data, it demonstrates significant improvements over state-of-the-art methods, achieving uniform smoke attenuation while preserving anatomical details.
 
 ---
 
-## 🎯 Objetivo general del proyecto
+## 🎯 Objetive
 
-Desarrollar y evaluar modelos de aprendizaje profundo capaces de eliminar humo de imágenes laparoscópicas, garantizando fidelidad visual, conservación anatómica y mejora de calidad percibida mediante métricas cuantitativas y cualitativas.
+Develop and validate a deep learning model capable of removing smoke from laparoscopic images, evaluated using both reference-based and non-reference-based metrics to ensure competitiveness with the state of the art, robustness, and reliability in clinical settings.
 
 ---
 
-## 📊 Comparaciones Visuales
+## 📊 Qualitative results
 
 ---
 
