@@ -1,6 +1,7 @@
 # Optimization of Laparoscopic Images Using Artificial Intelligence Models
 
-
+⚠️ SEGUIMOS EN CONSTRUCCIÓN, AGRADECEMOS SU PACIENCIA
+---
 
 # 🩺 Abstract
 
@@ -11,6 +12,18 @@ In this proyect we introduce Desmoke-RGAN a conditional GAN that incorporates a 
 ## 🎯 Objetive
 
 Develop and validate a deep learning model capable of removing smoke from laparoscopic images, evaluated using both reference-based and non-reference-based metrics to ensure competitiveness with the state of the art, robustness, and reliability in clinical settings.
+
+---
+## 🖥️ Database
+Our database was validated by 38 surgians, if you want to know the Questoniarie you can acced scanning the QR
+
+<div align="center">
+  <img src="sample_edsedi_pair.png">
+</div>
+
+a) Are real laparoscopic images
+b) Are syntetic smoke laparoscopic images
+c) Are real smoke laparoscopic images
 
 ---
 
@@ -103,6 +116,9 @@ Develop and validate a deep learning model capable of removing smoke from laparo
     <td align="center" width="384"><sub><strong>Salida</strong></sub></td>
   </tr>
 </table>
+----
+
+
 
 
 
