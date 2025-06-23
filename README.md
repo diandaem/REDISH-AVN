@@ -21,10 +21,11 @@ Our database was validated by 38 surgians, If you want to view the questionnaire
   <img src="comparaciones/sample_edsedi_pair.png" width="900">
 </div>
 
+<div align="center">
 (a) Are real laparoscopic images
 (b) Are syntetic smoke laparoscopic images
 (c) Are real smoke laparoscopic images
-
+</div>
 ---
 
 ## 📊 Qualitative results
