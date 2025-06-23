@@ -40,8 +40,8 @@ Our database was validated by 38 surgians, If you want to view the questionnaire
 
 <table align="center" width="768">
   <tr>
-    <td align="center" width="384"><sub><strong>Entrada</strong></sub></td>
-    <td align="center" width="384"><sub><strong>Salida</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Input</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Output</strong></sub></td>
   </tr>
 </table>
 
@@ -54,8 +54,8 @@ Our database was validated by 38 surgians, If you want to view the questionnaire
 
 <table align="center" width="768">
   <tr>
-    <td align="center" width="384"><sub><strong>Entrada</strong></sub></td>
-    <td align="center" width="384"><sub><strong>Salida</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Input</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Output</strong></sub></td>
   </tr>
 </table>
 
@@ -69,8 +69,8 @@ Our database was validated by 38 surgians, If you want to view the questionnaire
 
 <table align="center" width="768">
   <tr>
-    <td align="center" width="384"><sub><strong>Entrada</strong></sub></td>
-    <td align="center" width="384"><sub><strong>Salida</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Input</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Output</strong></sub></td>
   </tr>
 </table>
 
@@ -85,8 +85,8 @@ Our database was validated by 38 surgians, If you want to view the questionnaire
 
 <table align="center" width="768">
   <tr>
-    <td align="center" width="384"><sub><strong>Entrada</strong></sub></td>
-    <td align="center" width="384"><sub><strong>Salida</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Input</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Output</strong></sub></td>
   </tr>
 </table>
 
@@ -99,8 +99,8 @@ Our database was validated by 38 surgians, If you want to view the questionnaire
 
 <table align="center" width="768">
   <tr>
-    <td align="center" width="384"><sub><strong>Entrada</strong></sub></td>
-    <td align="center" width="384"><sub><strong>Salida</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Input</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Output</strong></sub></td>
   </tr>
 </table>
 
@@ -113,10 +113,11 @@ Our database was validated by 38 surgians, If you want to view the questionnaire
 
 <table align="center" width="768">
   <tr>
-    <td align="center" width="384"><sub><strong>Entrada</strong></sub></td>
-    <td align="center" width="384"><sub><strong>Salida</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Input</strong></sub></td>
+    <td align="center" width="384"><sub><strong>Output</strong></sub></td>
   </tr>
 </table>
+
 ----
 
 
