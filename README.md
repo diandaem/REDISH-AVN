@@ -31,7 +31,7 @@ Our sythetic database was validated by 38 surgeons, If you want to view the ques
 
 The results of surgeons evaluation were analyzed statistically.
 
-<h3 align="center">📊 Statistical Analysis</h3>
+<h3 align="center">📈 Statistical Analysis</h3>
 
 <table align="center">
   <tr>
